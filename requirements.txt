@@ -3,3 +3,4 @@ starlette==0.25.0
 uvicorn==0.20.0
 pytest
 httpx
+flake8
